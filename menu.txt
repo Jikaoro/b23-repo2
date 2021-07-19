@@ -17,3 +17,10 @@ sandwiches
 get more sandwiches
 
 juice
+burger 1000 cal
+
+Veggie Bowl 10 cal 5.89
+
+Burritous 500 cal 3.99 
+Doner 400 cal 8.99
+Kabob 500 call 9.99
