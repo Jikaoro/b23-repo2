@@ -24,3 +24,9 @@ Veggie Bowl 10 cal 5.89
 Burritous 500 cal 3.99 
 Doner 400 cal 8.99
 Kabob 500 call 9.99
+
+Steak 600 cal 13.99
+
+Pizza 3000 cal 9.99
+Soup 150 cal 3.99 
+Dumplings 200 cal 
